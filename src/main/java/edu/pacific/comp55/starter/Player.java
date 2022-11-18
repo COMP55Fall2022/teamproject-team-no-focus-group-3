@@ -16,7 +16,7 @@ public class Player {
     private GImage playerIMG;
 
     // Players current position within window
-    private int x, y;
+    private int x, y; //test
 
     // the active pressed key
     MoveDirection currentDirection = null;
